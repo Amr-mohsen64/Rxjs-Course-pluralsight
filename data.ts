@@ -12,3 +12,8 @@ export const allBooks = [
     { bookID: 5, title: 'Curious George', author: 'H. A. Rey', publicationYear: 1941 },
     { bookID: 6, title: 'Alice\'s Adventures in Wonderland', author: 'Lewis Carroll', publicationYear: 1865 },
 ];
+
+
+function name(params:type) {
+ 
+}

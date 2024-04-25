@@ -15,9 +15,13 @@
 
   "editor.fontFamily": "Roboto Mono",
   "editor.fontSize": 16,
-  "editor.quickSuggestions": true,
+  "editor.quickSuggestions": {
+    "comments": "on",
+    "strings": "on",
+    "other": "on"
+  },
   "editor.parameterHints": false,
-  "editor.wordBasedSuggestions": false,
+  "editor.wordBasedSuggestions": "off",
   "editor.selectionHighlight": false,
   "editor.suggestOnTriggerCharacters": true,
   "editor.foldingStrategy": "indentation",
